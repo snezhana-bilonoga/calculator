@@ -1,0 +1,14 @@
+h1, form {
+   text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+#calculate {
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+  padding: 5px;
+}
